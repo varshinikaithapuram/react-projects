@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "../../../counter-app"
+        },
+        {
+            "path": "../.."
+        },
+        {
+            "path": "../../../react-todo-app-v1"
+        },
+        {
+            "path": "../../../conditional-rendering-sample"
+        },
+        {
+            "path": "../../../React_Tutorial_Contact_Manager_App"
+        }
+    ]
+}
